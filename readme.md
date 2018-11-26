@@ -16,7 +16,7 @@ Overview
 ```
 
 ## Usage
-ruby convertKml.rb
+ruby Csv2Kml.rb
 
 ## Install
 ruby only.
